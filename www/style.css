@@ -15,10 +15,12 @@ header{
 
 textarea{
     width:50%;
+    height:100%;
 }
 
 #op{
     background-color:#ecf0f5;
     width:50%;
+    height:100%;
 
 }

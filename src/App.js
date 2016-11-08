@@ -39,7 +39,9 @@ class App extends React.Component{
                     ></textarea>
                     <div id="op">
                     <pre >
-                       Output: {this.state.output}
+                       Output: <br/>
+                       <br/>
+                       {this.state.output}
                     </pre>
                     </div>
                 </div>
