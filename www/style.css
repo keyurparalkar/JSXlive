@@ -1,0 +1,24 @@
+body{
+    font-family: monospace;
+}
+
+.container{
+    display:flex;
+    flex-direction: row;
+    height:500px;
+}
+
+header{
+    background-color: #ffc200;
+    height:50px;
+}
+
+textarea{
+    width:50%;
+}
+
+#op{
+    background-color:#ecf0f5;
+    width:50%;
+
+}
